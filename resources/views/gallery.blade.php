@@ -11,7 +11,7 @@
     <section class="container">
     @include('snippets.logo')
         @include('snippets.menu')
-        <h1>This is about Gallery Page</h1>
+        <h1>This is about History Page</h1>
     </section>
     
 </body>
